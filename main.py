@@ -2,7 +2,7 @@
 
 import os
 
-JOKE = "The agent fixed my bug in 40 seconds. I've spent the rest of the sprint writing the review comment that says it fixed the bug in 40 seconds."
+JOKE = "My AI coding agent writes better commit messages than I do. To be fair, it also writes most of my commits."
 
 OUTPUT_PATH = "/output/entry.txt"
 
