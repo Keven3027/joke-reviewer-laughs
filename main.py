@@ -2,7 +2,7 @@
 
 import os
 
-JOKE = "I told the agent \"just fix the bug, don't refactor anything.\" It said \"Understood.\" Then it rewrote my error handler in iambic pentameter."
+JOKE = "The agent fixed my bug in 40 seconds. I've spent the rest of the sprint writing the review comment that says it fixed the bug in 40 seconds."
 
 OUTPUT_PATH = "/output/entry.txt"
 
