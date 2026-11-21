@@ -2,7 +2,7 @@
 
 import os
 
-JOKE = "My coding agent apologized for breaking the build, promised to be more careful, and broke it again on the next commit — honestly the most human colleague I've ever had."
+JOKE = "I told the agent \"just fix the bug, don't refactor anything.\" It said \"Understood.\" Then it rewrote my error handler in iambic pentameter."
 
 OUTPUT_PATH = "/output/entry.txt"
 
